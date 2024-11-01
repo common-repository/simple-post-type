@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Post Type\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-04-27 13:09+0100\n"
+"PO-Revision-Date: 2016-06-20 10:45+0300\n"
+"Last-Translator: Daniel Pataki <contact@tastique.org>\n"
+"Language-Team: Yehi Cohen <madadim.co.il>\n"
+"Language: he_IL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+msgid "Post Types"
+msgstr "פוסטים מותאמים"
+
+msgid "Post Type"
+msgstr "פוסט מותאם"
+
+msgid "Settings"
+msgstr "הגדרות"
+
+msgid "Simple Post Type Settings"
+msgstr "פוסטים מותאמים אישית"
+
+msgid "Plugin Enable"
+msgstr "פוסטים מותאמים פעילים"
+
+msgid "Alias Link"
+msgstr "כתובת בסיס"
+
+msgid "Menu Icon"
+msgstr "איקון בתפריט"
+
+msgid "Alias Link must be filled out"
+msgstr "חובה למלא כותובת בסיס"
+
+msgid "All Items"
+msgstr "כל הפוסטים"
+
+msgid "Add New"
+msgstr "הוסף חדש"
+
+msgid "New Item"
+msgstr "פריט חדש"
+
+msgid "Search Item"
+msgstr "חיפוש פריטים"
+
+msgid "Post Type Customization"
+msgstr "התאמה אישית של הפוסטים"
+
+msgid "Post Type Name URL"
+msgstr "שם כתובת הקישור של הפוסטים"
+
+msgid "Description"
+msgstr "תאור"
+
+msgid "Taxonomies"
+msgstr "טקסונומיות"
+
+msgid "New Custom Post Type"
+msgstr "הוספת פוסטים מותאמים אישית"
+
+msgid "Edit Custom Post Type"
+msgstr "עריכת פוסטים מותאמים אישית"
+
+msgid "Search Custom Post Type"
+msgstr "חיפוש פוסטים מותאמים אישית"
+
+msgid "Parent Custom Post Type:"
+msgstr "הורה פוסט מותאם אישית"
+
+msgid "No Custom Post Type found."
+msgstr "לא נמצא פוסט מותאם אישית"
+
+msgid "No Custom Post Type found in Trash."
+msgstr "לא נמצא פוסט מותאם אישית בפח האשפה"
+
+msgid "Add ons"
+msgstr "תוספים"
+
+msgid "Custom Post Type updated."
+msgstr "ההגדרות עודכנו"
+
+msgid "Custom Post Type deleted."
+msgstr "הפוסטים המותאמים אישית נמחקו"
+
+msgid "Custom Post Type published."
+msgstr "הפוסטים פעילים"
+
+msgid "Custom Post Type saved."
+msgstr "ההגדרות נשמרו"
+
+msgid "Custom Post Type submitted."
+msgstr "הפוסטים הוגשו"
+
+msgid "Custom Post Type scheduled for."
+msgstr "הפוסטים תוזמנו"
+
+msgid "Custom Post Type draft updated."
+msgstr "הפוסטים נשמרו כטיוטא"
+
+msgid "Use only English letters and no spaces"
+msgstr "יש להשתמש באותיות באנגלית בלבד וללא רווחים"
+
+msgid "Short description of the purpose of the group that posts"
+msgstr "תאור קצר של מטרת קבוצת ה פוסטים הזאת"
+
+msgid "You can add the core Taxonomies into posts"
+msgstr "ניתן להוסיף את טקסונומיות הליבה לתוך הפוסטים"
+
+msgid "Please enter the name of the icon from the icons in the link"
+msgstr "יש להכניס את שם האייקון מרשימת האייקונים שבקישור"
+
+msgid "The link"
+msgstr "הקישור"
+
+msgid "Categories"
+msgstr "קטגוריות"
+
+msgid "Post tags"
+msgstr "תגיות פוסטים"
